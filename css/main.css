@@ -1,0 +1,36 @@
+.h-10r {
+    height: 10rem;
+}
+
+#void {
+    background-image: linear-gradient(rgba(0,0,0,1), rgb(88, 88, 88));
+}
+
+.a_nav {
+    background-color: rgba(10, 50, 0,0.4);
+    padding: 0.3rem;
+    color: greenyellow;
+}
+
+.card {
+    transition-duration: 0.2s;
+}
+
+.card:hover {
+    scale: 1.1;
+    z-index: 10;
+}
+
+body {
+    background-color: rgba(88,88,88,1)
+}
+
+.w-18 {
+    width: 18%;
+}
+
+h1, h3 {
+    font-family: "Bowlby One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
